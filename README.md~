@@ -4,4 +4,4 @@
 1. set ${{TOKEN}} in line-notify.sh
 
 ## execute
-1. sh line-notify.sh
+1. ./line-notify.sh
